@@ -1,0 +1,32 @@
+src/content/docs/bots/reference/machine-learning-models.mdx
+  s_0f447e429a0932::t_63b5a08b977acf 22,24,28,32
+  s_0f447e429a0932::t_e2ff11dae0465e 33
+src/content/partials/bots/bots-ml.mdx
+  s_0f447e429a0932::t_d099deb37a5ecb 6
+  s_0f447e429a0932::t_a282d5f9bc8ff4 8,10-11,13,15-17
+src/content/docs/bots/concepts/bot-detection-engines.mdx
+  s_0f447e429a0932::t_5fa639de470f5d 27,31-33
+src/content/changelog/bots/2026-08-31-adaptive-intelligence.mdx
+  s_0f447e429a0932::t_5880ed28cff4a2 1-6,8-12,14-15
+  s_0f447e429a0932::t_09b4bb77c1447d 7
+  s_0f447e429a0932::t_75b4ad4b2ae206 13
+src/content/partials/bots/latest-ml-model-enable.mdx
+  s_0f447e429a0932::t_e759656bea2dd7 7
+  s_0f447e429a0932::t_25c1fddf19f35e 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "de38975c6c78b76467ff2762a5f965d9849f8164",
+  "prompts": {},
+  "sessions": {
+    "s_0f447e429a0932": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee9e4cb81ffe6ejsd6LhRmlUz3",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
