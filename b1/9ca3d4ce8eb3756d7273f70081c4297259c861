@@ -1,0 +1,20 @@
+src/content/changelog/bots/2026-08-31-adaptive-intelligence.mdx
+  s_0f447e429a0932::t_020c9b6397c32a 9
+  s_0f447e429a0932::t_8f7a1495d04dca 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b19ca3d4ce8eb3756d7273f70081c4297259c861",
+  "prompts": {},
+  "sessions": {
+    "s_0f447e429a0932": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee9e4cb81ffe6ejsd6LhRmlUz3",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
