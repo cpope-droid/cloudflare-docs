@@ -1,0 +1,23 @@
+src/content/changelog/bots/2026-08-31-adaptive-intelligence.mdx
+  s_0f447e429a0932::t_44b3bacb174827 3
+  s_0f447e429a0932::t_94f8c6d28411e8 9
+  s_0f447e429a0932::t_00e6dc04b752e3 11
+src/content/docs/bots/reference/machine-learning-models.mdx
+  s_0f447e429a0932::t_a50620dd3f6281 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2a3cddd7aff9fbce92213bee9cb6b9a83f3abf5b",
+  "prompts": {},
+  "sessions": {
+    "s_0f447e429a0932": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee9e4cb81ffe6ejsd6LhRmlUz3",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
